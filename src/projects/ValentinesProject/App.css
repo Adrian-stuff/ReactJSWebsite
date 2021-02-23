@@ -1,0 +1,16 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+header {
+  padding: 156px 0 400px;
+}
+
+section {
+  padding: 150px 0 400px;
+}
+#lead {
+  text-align: center;
+}

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import SoundboardApp from "../projects/SoundBoardApp/soundboardthumbnail.png";
-import ValentinesProject from "../projects/ValentinesProject/Valentine.png";
+import SoundboardApp from "../img/soundboardthumbnail.png";
+import ValentinesProject from "../img/Valentine.png";
 const Projects = () => {
     
     return (

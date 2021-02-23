@@ -20,7 +20,7 @@ const Projects = () => {
                         <div className="col-md-4">
                             <div className="work-box">
                 
-                                <Link className="decor" to="/projects/SoundboardApp">
+                                <Link className="decor" to={{ pathname: "https://project-soundboardapp.netlify.app/" }} target="_blank">
                                     <div>
                                         <div className="work-img">
                                             <img src={SoundboardApp} alt=" " className="img-fluid" />
@@ -43,7 +43,7 @@ const Projects = () => {
                         <div className="col-md-4">
                             <div className="work-box">
                 
-                                <Link className="decor" to="/projects/ValentinesProject">
+                                <Link className="decor" to={{ pathname: "https://project-valentines.netlify.app/" }} target="_blank" >
                                     <div>
                                         <div className="work-img">
                                             <img src={ValentinesProject} alt=" " className="img-fluid" />
